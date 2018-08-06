@@ -1,3 +1,3 @@
 # hello-world
-github使用测试
+github使用
 在edit分支修改文件
